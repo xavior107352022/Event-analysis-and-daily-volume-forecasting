@@ -9,6 +9,6 @@ input data :
 4. Cap_data.csv    : 個股市值及周轉率數據
 
 
-!image(https://github.com/xavior107352022/Event-analysis-and-daily-volume-forecasting/blob/master/T1lessT-1_figure/VolumeSum_blocktrade.jpeg)
+![image](https://github.com/xavior107352022/Event-analysis-and-daily-volume-forecasting/blob/master/T1lessT-1_figure/VolumeSum_blocktrade.jpeg)
 
 
